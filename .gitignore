@@ -1,0 +1,7 @@
+node_modules
+*.aes
+cypress/reports
+.history
+.vscode
+env
+.DS_Store

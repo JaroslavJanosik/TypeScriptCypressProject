@@ -1,0 +1,25 @@
+{
+    "compilerOptions": {
+      "baseUrl": "./cypress",
+      "target": "ESNext",
+      "lib": ["ESNext", "dom"],
+      "types": ["cypress", "node", "cypress-xpath"],
+      "module": "ESNext",
+      "moduleResolution":"Node",
+      "allowSyntheticDefaultImports": true,
+      "resolveJsonModule": true,
+      "esModuleInterop": true
+    },
+    "include": ["**/*.ts"],
+    "paths": {
+      "@support/*": [
+          "support/*"
+      ],
+      "@e2e/*": [
+          "e2e/*"
+      ],
+      "@fixtures/*": [
+          "fixtures/*"
+      ]
+  }
+}

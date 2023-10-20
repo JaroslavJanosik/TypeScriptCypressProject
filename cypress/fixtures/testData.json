@@ -1,0 +1,8 @@
+{
+    "loginUrl": "https://login.szn.cz/",
+    "baseUrl": "https://email.seznam.cz/",
+    "username": "safetica.test",
+    "password": "MaZdOR5IiW5OV7ZPykLV",
+    "userEmail": "safetica.test@seznam.cz",
+    "recipientEmail": "safeticatest0@gmail.com"
+}
